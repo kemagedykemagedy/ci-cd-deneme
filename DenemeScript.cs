@@ -17,8 +17,7 @@ public class DenemeScript : MonoBehaviour
         //InitConnections();
         //InitState();
     }
-    void InitConnections(){
-    }
+
     void InitState(){
     }
 
